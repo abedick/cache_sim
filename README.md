@@ -4,6 +4,7 @@ Simulates an 8 way associative 32KB L1 Cache in Google Go. (64 Lines of 8 Blocks
 
 ## Usage 
 `go build cache_sim.go`
+
 `./cache_sim <FileName>`
 
 Specify as many files as needed, will run in multithreaded mode.
