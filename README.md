@@ -22,4 +22,4 @@ Example:
 `hexdump -n 64 -e '1/4 "%08_ax" " | “ ' -e '4/4 "%08X " "\n"’  AddressTrace_FirstIndex.bin`
 
 
-Based off of Cache Simulator by Gary J Minden at the University of Kansas. <gminden@ittc.ku.edu>
+Credit: Cache Simulator by Gary J Minden at the University of Kansas. <gminden@ittc.ku.edu>
